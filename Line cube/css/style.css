@@ -1,0 +1,9 @@
+.cube{
+    background-image: url(/assets/grid.svg);
+
+    stroke-width: 7;
+    fill: none;
+    stroke: #031cf9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
